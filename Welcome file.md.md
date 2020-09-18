@@ -393,13 +393,41 @@ return 0;
 ```
 **17. Write a program to using \\'**
 ```
+#include  <iostream>
 
+using  namespace  std;
+
+  
+
+int  main()
+
+{
+
+int  year;
+cout  <<  "\'Enter a year: "<<"\'";
+cin  >>  year;
+if (year % 4 == 0)
+{
+if (year % 100 == 0)
+{
+if (year % 400 == 0)
+cout  <<  year  <<  " \'is a leap year\'.";
+else
+cout  <<  year  <<  " \'is not a leap year\'.";
+}
+else
+cout  <<  year  <<  " \'is a leap year.\'";
+}
+else
+cout  <<  year  <<  " \'is not a leap year.\'";
+return  0;
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk3MTgwMDE3LDE0NTYwMDY5ODEsLTIwNT
-kwMjU5MjcsMTA4MzQzNTIyNCw1MTY5NjI3NTgsNTUxNTQ1NzA4
-LC0xMzMyOTY5NTE5LDEwOTE3NTEzOCwyMDQ3MTQyMTU0LC05Mj
-kwNTU4MzUsMTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5MzI1MTY4
-NzMsMTM3NzAwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3LC0zNz
-AyMjgzOSwtMjQ3NzQyODAzLDM2NTE3MzQzNiwtMTA2MDI0MjQ4
-NV19
+eyJoaXN0b3J5IjpbMjA5NzA3NDA0NCw3OTcxODAwMTcsMTQ1Nj
+AwNjk4MSwtMjA1OTAyNTkyNywxMDgzNDM1MjI0LDUxNjk2Mjc1
+OCw1NTE1NDU3MDgsLTEzMzI5Njk1MTksMTA5MTc1MTM4LDIwND
+cxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3
+NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMT
+c0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2
+XX0=
 -->
