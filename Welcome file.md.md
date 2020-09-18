@@ -73,16 +73,16 @@ return 0;
 **Output :**
 ```
 Enter first number :
-45
+78
 Enter second number :
 45
 The sum of a and b is :
-90
+123
 The average of a and b is :
-45
+61.5
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjQwOTg3OTIsLTEwNjAyNDI0ODUsMT
-MyMzM5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1
-NjgwXX0=
+eyJoaXN0b3J5IjpbMzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMj
+MzOTAxMDksMTk0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNjk4NTY4
+MF19
 -->
