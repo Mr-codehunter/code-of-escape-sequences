@@ -440,9 +440,11 @@ cout  <<"\'"<<  n  <<  " * "  <<  i  <<  " = "  <<"\'"<<n * i<<"\n" ;
 return  0;
 }
 ```
+**Output :**
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4OTg4NzIxNCwxMTY3MzkwMSwxODg4ND
+eyJoaXN0b3J5IjpbMTYwNjQ4OTExNywxMTY3MzkwMSwxODg4ND
 Y4MTU5LDc5NzE4MDAxNywxNDU2MDA2OTgxLC0yMDU5MDI1OTI3
 LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMj
 k2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1
