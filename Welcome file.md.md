@@ -65,8 +65,9 @@ cout<<"Enter second number :\n";
 cin>>b;
 sum=a+b;
 average=sum/2;
-cout<<The sum of a and b is :<<
+cout<<The sum of a and b is :\n"<<sum;
+cout
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTY3NzgyNjMsMTk0MDAyMTE2MSwtMT
-c0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbMTYyNzg1NTgxOCwxOTQwMDIxMTYxLC0xNz
+Q5NTE0NjUsOTE2OTg1NjgwXX0=
 -->
