@@ -263,9 +263,12 @@ return  0;
 ```
 **Output :**
 ```
+:40r an Number. It is a even number
+```
+**12. write a program using \r
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzE1NTE1MTUsMTA5MTc1MTM4LDIwND
+eyJoaXN0b3J5IjpbLTEzMzI5Njk1MTksMTA5MTc1MTM4LDIwND
 cxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3
 NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMT
 c0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2
