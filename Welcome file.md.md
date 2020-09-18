@@ -33,7 +33,7 @@ The sum of a and b is :
 using namespace std;
 int main()
 {
-int a,b,remainder;
+float a,b,remainder;
 cout<<"Enter first number :\n";
 cin>>a;
 cout<<"Enter second number :\n";
@@ -43,6 +43,6 @@ cout<<"The remainder of a and b is :\n"<<remainder;
 return 0;
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NjY2MjYyMSwxOTQwMDIxMTYxLC0xNz
-Q5NTE0NjUsOTE2OTg1NjgwXX0=
+eyJoaXN0b3J5IjpbLTE3NDg3ODI5NTQsMTk0MDAyMTE2MSwtMT
+c0OTUxNDY1LDkxNjk4NTY4MF19
 -->
