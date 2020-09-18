@@ -134,10 +134,12 @@ return 0;
 ```
 **Output :**
 ```
-
+        Enter   a       charcter        :       x
+        ASCII   value   of       x      is      120
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDg4MjA0ODQsNjE4MzI1MDkzLDEwMT
-c0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2
-LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMT
-c0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbMTM3NzAwNDczLDYxODMyNTA5MywxMDE3ND
+gyMTQ3LC0zNzAyMjgzOSwtMjQ3NzQyODAzLDM2NTE3MzQzNiwt
+MTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjExNjEsLTE3ND
+k1MTQ2NSw5MTY5ODU2ODBdfQ==
 -->
