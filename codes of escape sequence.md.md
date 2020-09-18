@@ -30,7 +30,7 @@ Enter the value of b:
 The sum of a and b is :
 90
 ```
-**2. Find out the remainder using \t** 
+**2. Find out the remainder using \n** 
 ```
 #include<iostream>
 using namespace std;
@@ -520,5 +520,5 @@ return  0;
 ## *Thanks a lot for wisiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5NzA0NDM4NF19
+eyJoaXN0b3J5IjpbMjQ5Mjk4NTM0LDE5OTcwNDQzODRdfQ==
 -->
