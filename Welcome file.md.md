@@ -173,7 +173,11 @@ return  0;
 ```
 PMNarendra Mod announce pane to stujoint polThPrime Mini of India is Nare Modi
 ```
-**9. Write a program using \r**
+**9. w
+
+
+
+**10. Write a program using \r**
 ```
 #include<iostream>
 using  namespace  std;
@@ -183,20 +187,22 @@ int  a=2;
 double  const  b=4;
 float  c=105;
 char  d='A';
-cout<<"\rThe value of a\r is : "<<a;
+cout<<"The value of a is : "<<a;
 cout<<"The \rvalue of b is\r : "<<b;
 cout<<"The value \rof c \ris : "<<c;
-cout<<"The value of\r d is :\r "<<d;
+cout<<"The value of d is : "<<d;
 return  0;
-} 
+}
 ```
 **Output :**
 ```
+is : 105The value of d is : A
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMj
-UxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkz
-LDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MT
-czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
-MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbLTQxNjgwOTM2MSwtOTI5MDU1ODM1LDExNj
+UwOTgxMDIsMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNzcwMDQ3
+Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4MzksLTI0Nz
+c0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEw
+OSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1NjgwXX0=
 -->
