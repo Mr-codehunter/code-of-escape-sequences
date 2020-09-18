@@ -480,35 +480,33 @@ return  0;
 **20. Write a program to swap of two numbers using \\"**
 ```
 #include  <iostream>
-
 using  namespace  std;
-
-  
-
 int  main()
-
 {
-
 int  a = 5, b = 10, temp;
-
-  
-
 cout  <<  "\"Before swapping.\""  <<  endl;
-
 cout  <<"\n""\"a = "  <<  a  <<  ", b = \""  <<  b  <<  endl;
-
-  
-
 temp = a;
-
 a = b;
-
-b = temp;cout  <<  "\n\"After swapping.\""  <<  endl;
+b = temp;
+cout  <<  "\n\"After swapping.\""  <<  endl;
 cout  <<"\n""\"a = "  <<  a  <<  ", \"b = "  <<  b  <<  endl;
 return  0;
 }
+```
+**Output :**
+```
+"Before swapping."
+
+"a = 5, b = "10
+
+"After swapping."
+
+"a = 10, "b = 5
+```
+**21. Wit
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MDM5MjM4MSwxMTY3MzkwMSwxODg4ND
+eyJoaXN0b3J5IjpbLTc2MjY2NDg4NiwxMTY3MzkwMSwxODg4ND
 Y4MTU5LDc5NzE4MDAxNywxNDU2MDA2OTgxLC0yMDU5MDI1OTI3
 LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMj
 k2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1
