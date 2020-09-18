@@ -432,7 +432,7 @@ using  namespace  std;
 int  main()
 {
 int  n;
-cout  <<  "\'Enter a positive integer: \'";
+cout  <<  "\'Enter an integer: \'";
 cin  >>  n;
 for (int  i = 1; i <= 10; ++i) {
 cout  <<"\'"<<  n  <<  " * "  <<  i  <<  " = "  <<"\'"<<n * i<<"\n" ;
@@ -442,9 +442,20 @@ return  0;
 ```
 **Output :**
 ```
-
+'Enter an integer: '79
+'79 * 1 = '79
+'79 * 2 = '158
+'79 * 3 = '237
+'79 * 4 = '316
+'79 * 5 = '395
+'79 * 6 = '474
+'79 * 7 = '553
+'79 * 8 = '632
+'79 * 9 = '711
+'79 * 10 = '790
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwNjQ4OTExNywxMTY3MzkwMSwxODg4ND
+eyJoaXN0b3J5IjpbLTc2NDM0MzI2MCwxMTY3MzkwMSwxODg4ND
 Y4MTU5LDc5NzE4MDAxNywxNDU2MDA2OTgxLC0yMDU5MDI1OTI3
 LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMj
 k2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1
