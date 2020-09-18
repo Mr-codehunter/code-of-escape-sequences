@@ -65,11 +65,12 @@ cout<<"Enter second number :\n";
 cin>>b;
 sum=a+b;
 average=sum/2;
-cout<<"The sum of a and b is :\n"<<sum;
+cout<<"The sum of a and b is :\n"<<sum<<"\n";
 cout<<"The average of a and b is :\n"<<average;
 return 0;
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjAyNDI0ODUsMTMyMzM5MDEwOSwxOT
-QwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1NjgwXX0=
+eyJoaXN0b3J5IjpbLTEzNTU3NDM1OTUsLTEwNjAyNDI0ODUsMT
+MyMzM5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1
+NjgwXX0=
 -->
