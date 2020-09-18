@@ -512,13 +512,13 @@ return  0;
 "Follow me on  my "GITHUB" Account @ "Mr-codehunter" and if u contact me please send an "E-mail on : "Writtten Soon" and my "contact no. is "8847547031"
 "Follow me on  my "GITHUB" Account @ "Mr-codehunter" and if u contact me please send an "E-mail on : "Writtten Soon" and my "contact no. is "8847547031"
 ```
-Tnaks a lot for watching..... my 
+Thanks a lot for watching..... my codes and if any quires and any misr 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4MDU2ODA5OSwxMTU1NjQ4NTA2LDExNj
-czOTAxLDE4ODg0NjgxNTksNzk3MTgwMDE3LDE0NTYwMDY5ODEs
-LTIwNTkwMjU5MjcsMTA4MzQzNTIyNCw1MTY5NjI3NTgsNTUxNT
-Q1NzA4LC0xMzMyOTY5NTE5LDEwOTE3NTEzOCwyMDQ3MTQyMTU0
-LC05MjkwNTU4MzUsMTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5Mz
-I1MTY4NzMsMTM3NzAwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3
-XX0=
+eyJoaXN0b3J5IjpbOTg1NTE4ODA4LDExNTU2NDg1MDYsMTE2Nz
+M5MDEsMTg4ODQ2ODE1OSw3OTcxODAwMTcsMTQ1NjAwNjk4MSwt
+MjA1OTAyNTkyNywxMDgzNDM1MjI0LDUxNjk2Mjc1OCw1NTE1ND
+U3MDgsLTEzMzI5Njk1MTksMTA5MTc1MTM4LDIwNDcxNDIxNTQs
+LTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMj
+UxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDdd
+fQ==
 -->
