@@ -306,13 +306,33 @@ return  0;
 He\she is an great programmer in c\c++\java\javascript\python\.
 ```
 **14. Write a program using \\**
+```
+#include  <iostream>
+using  namespace  std;
+int  main()
+{
+int  rows;
+cout  <<  "Enter number of rows: ";
+cin  >>rows;
+for(int  i = 1; i <= rows; ++i)
+{
+for(int  j = 1; j <= i; ++j)
+{
+cout  <<  "\\He\\She is a good programmer\\Hacker\\Teacher. ";
+}
+cout  <<  "\n";
+}
+return  0;
+}
+```
+**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4MzQzNTIyNCw1MTY5NjI3NTgsNTUxNT
-Q1NzA4LC0xMzMyOTY5NTE5LDEwOTE3NTEzOCwyMDQ3MTQyMTU0
-LC05MjkwNTU4MzUsMTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5Mz
-I1MTY4NzMsMTM3NzAwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3
-LC0zNzAyMjgzOSwtMjQ3NzQyODAzLDM2NTE3MzQzNiwtMTA2MD
-I0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjExNjEsLTE3NDk1MTQ2
-NV19
+eyJoaXN0b3J5IjpbODU1ODQyNzI0LDEwODM0MzUyMjQsNTE2OT
+YyNzU4LDU1MTU0NTcwOCwtMTMzMjk2OTUxOSwxMDkxNzUxMzgs
+MjA0NzE0MjE1NCwtOTI5MDU1ODM1LDExNjUwOTgxMDIsMTMyNT
+E5Nzc2MSwxOTMyNTE2ODczLDEzNzcwMDQ3Myw2MTgzMjUwOTMs
+MTAxNzQ4MjE0NywtMzcwMjI4MzksLTI0Nzc0MjgwMywzNjUxNz
+M0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEwOSwxOTQwMDIxMTYx
+XX0=
 -->
