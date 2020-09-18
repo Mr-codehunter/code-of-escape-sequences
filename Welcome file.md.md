@@ -291,7 +291,7 @@ Enter an Number : 9
  Enter an Number : 15
 number :t an integer
 ```
-**13. Write a program using \\**
+**13. Write a program using \\\\**
 ```
 #include<iostream>
 using  namespace  std;
@@ -391,13 +391,13 @@ return 0;
 'Hello Brother  !
 'Hello Brother  !
 ```
-**17. 
+**17. Write a progr
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NjAwNjk4MSwtMjA1OTAyNTkyNywxMD
-gzNDM1MjI0LDUxNjk2Mjc1OCw1NTE1NDU3MDgsLTEzMzI5Njk1
-MTksMTA5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMT
-Y1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0
-NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yND
-c3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAx
-MDldfQ==
+eyJoaXN0b3J5IjpbLTY4NDExNjA0MSwxNDU2MDA2OTgxLC0yMD
+U5MDI1OTI3LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcw
+OCwtMTMzMjk2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOT
+I5MDU1ODM1LDExNjUwOTgxMDIsMTMyNTE5Nzc2MSwxOTMyNTE2
+ODczLDEzNzcwMDQ3Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMz
+cwMjI4MzksLTI0Nzc0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0
+ODVdfQ==
 -->
