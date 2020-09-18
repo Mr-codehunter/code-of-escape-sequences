@@ -81,10 +81,20 @@ The sum of a and b is :
 The average of a and b is :
 61.5
 ```
-**4. Print Hello 
+**4. Print Something using \t**
+```
+#include<iostream>
+using  namespace  std;
+int  main()
+{
+cout<<"MY name is Deepak.\tI am 19 Years old.\t";
+cout<<"I want to become an hacker.\tI am a Btech student.";
+return 0;
+
+}
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzUyMTk5MTksLTI0Nzc0MjgwMywzNj
-UxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEwOSwxOTQwMDIx
-MTYxLC0xNzQ5NTE0NjUsOTE2OTg1NjgwXX0=
+eyJoaXN0b3J5IjpbLTE4NzA1NTM0NywtMjQ3NzQyODAzLDM2NT
+E3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjEx
+NjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
 -->
