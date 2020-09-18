@@ -103,9 +103,9 @@ using namespace std;
 int main()
 {
 int a, b, mly;
-cout<<"\tEnter first\t number\t";
+cout<<"\tEnter\t first\t number\t";
 cin>>a;
-cout<<"\tEnter \tsecond number\t";
+cout<<"\tEnter \tsecond \tnumber\t";
 cin>>b;
 mly=a*b;
 cout<<"\tThe\t multiplication\t of\t a \tand \tb \tis \t:"<<mly<<"\t";
@@ -114,7 +114,7 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU2ODYxMTA5LC0zNzAyMjgzOSwtMjQ3Nz
-QyODAzLDM2NTE3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5
-LDE5NDAwMjExNjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTI2MjgyMDg5OSwtMzcwMjI4MzksLTI0Nz
+c0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEw
+OSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1NjgwXX0=
 -->
