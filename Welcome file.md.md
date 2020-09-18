@@ -343,7 +343,7 @@ cout<<"Enter the age : ";
 cin>>age;
 if(age>18)
 {
-cout<<"He\\She can vote in India.";
+cout<<"He\\She can vote in India.\n";
 }
 else  if (age<18)
 {
@@ -359,9 +359,13 @@ return  0;
 ```
 **Output :**
 ```
+Enter the age : 12
+He\She cannot vote in India.
+This is a vote program.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjM2MzY0MywtMjA1OTAyNTkyNywxMD
+eyJoaXN0b3J5IjpbLTY5MzYwMzQzNywtMjA1OTAyNTkyNywxMD
 gzNDM1MjI0LDUxNjk2Mjc1OCw1NTE1NDU3MDgsLTEzMzI5Njk1
 MTksMTA5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMT
 Y1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0
