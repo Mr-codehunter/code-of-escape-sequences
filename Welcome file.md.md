@@ -97,7 +97,7 @@ return 0;
 ```
 MY name is Deepak.      I am 19 Years old.      I want to become an hacker.     I am a Btech student.
 ```
-**4. multiply usnig \t**
+**4. multiply using \t**
 #include<iostream>
 using namespace std;
 int main()
@@ -108,11 +108,13 @@ cin>>a;
 cout<<"Enter \tsecond munber\t";
 cin>>b;
 mly=a*b;
-cout<<"The\t multiplication\t of\t a \tand \tb is :
+cout<<"The\t multiplication\t of\t a \tand \tb \tis :";
+return 0;
+}
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4Njk3NDkzMCwtMjQ3NzQyODAzLDM2NT
-E3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjEx
-NjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MT
+czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
+MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
 -->
