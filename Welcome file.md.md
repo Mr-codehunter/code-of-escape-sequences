@@ -158,10 +158,24 @@ Entethvalue o tw numbe145
 2
 Th valu i  72.5
 ```
+**8. Print Something using \b**
+```
+#include<iostream>
+using  namespace  std;
+int  main()
+{
+cout<<"\bPM \bNarendra Modi\b announces\b panel\b to study \b\b\bjoint polls\b\b";
+cout<<"The \b\bPrime Minister\b\b\b\b of India is Narendra\b\b\b\b Modi";
+return  0;
+}
+```
+**Output :**
+```
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNz
-cwMDQ3Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4Mzks
-LTI0Nzc0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMz
-M5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1Njgw
-XX0=
+eyJoaXN0b3J5IjpbNDM1ODQzMTIxLDEzMjUxOTc3NjEsMTkzMj
+UxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDcs
+LTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2LC0xMDYwMj
+QyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMTc0OTUxNDY1
+LDkxNjk4NTY4MF19
 -->
