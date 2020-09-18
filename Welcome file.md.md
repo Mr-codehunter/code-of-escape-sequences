@@ -1,7 +1,7 @@
 **Codes of Escape Sequence**
 
 
-**1. sum of two numbers**
+**1. sum of two numbers using \n**
 ```
 #include<iostream>
 using namespace std;
@@ -27,7 +27,7 @@ Enter the value of b:
 The sum of a and b is :
 90
 ```
-**2. Find Out the Reamainder** 
+**2. Find Out the Remainder** 
 ```
 #include<iostream>
 using namespace std;
@@ -97,7 +97,7 @@ return 0;
 ```
 MY name is Deepak.      I am 19 Years old.      I want to become an hacker.     I am a Btech student.
 ```
-**4. multiply using \t**
+**5. multiply using \t**
 ```
 #include<iostream>
 using  namespace  std;
@@ -119,7 +119,7 @@ return  0;
         Enter   second  number  :       45
         The     multiplication  of      a       and     b       is      :       2025
    ```
-   **5. Print ASCII value**
+   **6. Print ASCII value**
    ```
    #include<iostream>
 using  namespace  std;
@@ -138,8 +138,8 @@ return 0;
         ASCII   value   of       x      is      120
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NzAwNDczLDYxODMyNTA5MywxMDE3ND
-gyMTQ3LC0zNzAyMjgzOSwtMjQ3NzQyODAzLDM2NTE3MzQzNiwt
-MTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjExNjEsLTE3ND
-k1MTQ2NSw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTE0NjIzOTc2MTAsMTM3NzAwNDczLDYxOD
+MyNTA5MywxMDE3NDgyMTQ3LC0zNzAyMjgzOSwtMjQ3NzQyODAz
+LDM2NTE3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5ND
+AwMjExNjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
 -->
