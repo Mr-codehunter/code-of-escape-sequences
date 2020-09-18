@@ -454,9 +454,47 @@ return  0;
 '79 * 9 = '711
 '79 * 10 = '790
 ```
-**19. Write 
+**19. Write a Program to find out the Factorial using \\"**
+```
+#include  <iostream>
+
+using  namespace  std;
+
+  
+
+int  main()
+
+{
+
+unsigned  int  n;
+
+unsigned  long  long  factorial = 1;
+
+  
+
+cout  <<  "\"Enter a positive integer: \"";
+
+cin  >>  n;
+
+  
+
+for(int  i = 1; i <=n; ++i)
+
+{
+
+factorial *= i;
+
+}
+
+  
+
+cout  <<  "\"Factorial of "  <<  n  <<  " = "  <<  factorial<<"\"";
+
+return  0;
+
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3NDU0MjY3OSwxMTY3MzkwMSwxODg4ND
+eyJoaXN0b3J5IjpbMTI5NzI3MjA4MCwxMTY3MzkwMSwxODg4ND
 Y4MTU5LDc5NzE4MDAxNywxNDU2MDA2OTgxLC0yMDU5MDI1OTI3
 LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMj
 k2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1
