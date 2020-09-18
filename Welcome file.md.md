@@ -137,10 +137,31 @@ return 0;
         Enter   a       charcter        :       x
         ASCII   value   of       x      is      120
 ```
-**7. 
+**7. Division of numbers using \b**
+```
+#include<iostream>
+using  namespace  std;
+int  main()
+{
+float  num1,num2,div;
+cout<<"\bEnter\b  \bthe\b  \bvalues\b of\b two\b numbers\b\b";
+cin>>num1;
+cin>>num2;
+div=num1/num2;
+cout<<"\bThe\b value\b is\b :\b "<<div<<"\b";
+return  0;
+}
+```
+**Output :**
+```
+Entethvalue o tw numbe145
+2
+Th valu i  72.5
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4Mz
-I1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMs
-MzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MD
-AyMTE2MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNz
+cwMDQ3Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4Mzks
+LTI0Nzc0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMz
+M5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1Njgw
+XX0=
 -->
