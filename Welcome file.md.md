@@ -1,4 +1,4 @@
-**
+
 
 ## *Codes of Escape Sequences*
 
@@ -520,7 +520,7 @@ return  0;
 ## *Thanks a lot for wisiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MzMwNTU2OCwxMTU1NjQ4NTA2LDExNj
+eyJoaXN0b3J5IjpbMTk5NzA0NDM4NCwxMTU1NjQ4NTA2LDExNj
 czOTAxLDE4ODg0NjgxNTksNzk3MTgwMDE3LDE0NTYwMDY5ODEs
 LTIwNTkwMjU5MjcsMTA4MzQzNTIyNCw1MTY5NjI3NTgsNTUxNT
 Q1NzA4LC0xMzMyOTY5NTE5LDEwOTE3NTEzOCwyMDQ3MTQyMTU0
