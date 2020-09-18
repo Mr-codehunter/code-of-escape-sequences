@@ -425,14 +425,28 @@ return  0;
 'Enter a year: '2020
 2020 'is a leap year.'
 ```
-**18. Write a Program to Print any Table using \\**
+**18. Write a Program to Print any Table using \\'**
+```
+#include  <iostream>
+using  namespace  std;
+int  main()
+{
+int  n;
+cout  <<  "\'Enter a positive integer: \'";
+cin  >>  n;
+for (int  i = 1; i <= 10; ++i) {
+cout  <<"\'"<<  n  <<  " * "  <<  i  <<  " = "  <<"\'"<<n * i<<"\n" ;
+}
+return  0;
+}
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQyMjQyMTE3LDExNjczOTAxLDE4ODg0Nj
-gxNTksNzk3MTgwMDE3LDE0NTYwMDY5ODEsLTIwNTkwMjU5Mjcs
-MTA4MzQzNTIyNCw1MTY5NjI3NTgsNTUxNTQ1NzA4LC0xMzMyOT
-Y5NTE5LDEwOTE3NTEzOCwyMDQ3MTQyMTU0LC05MjkwNTU4MzUs
-MTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5MzI1MTY4NzMsMTM3Nz
-AwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3LC0zNzAyMjgzOV19
-
+eyJoaXN0b3J5IjpbLTU4OTg4NzIxNCwxMTY3MzkwMSwxODg4ND
+Y4MTU5LDc5NzE4MDAxNywxNDU2MDA2OTgxLC0yMDU5MDI1OTI3
+LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMj
+k2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1
+LDExNjUwOTgxMDIsMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNz
+cwMDQ3Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4Mzld
+fQ==
 -->
