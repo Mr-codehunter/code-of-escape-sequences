@@ -173,11 +173,28 @@ return  0;
 ```
 PMNarendra Mod announce pane to stujoint polThPrime Mini of India is Nare Modi
 ```
-**9.  
+**9. Write a program using \r**
+```
+#include<iostream>
+using  namespace  std;
+int  main()
+{
+int  a=2;
+double  const  b=4;
+float  c=105;
+char  d='A';
+cout<<"\rThe value of a\r is : "<<a;
+cout<<"The \rvalue of b is\r : "<<b;
+cout<<"The value \rof c \ris : "<<c;
+cout<<"The value of\r d is :\r "<<d;
+return  0;
+} 
+```
+**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5Mz
-I1MTY4NzMsMTM3NzAwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3
-LC0zNzAyMjgzOSwtMjQ3NzQyODAzLDM2NTE3MzQzNiwtMTA2MD
-I0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjExNjEsLTE3NDk1MTQ2
-NSw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTIzMDA5ODc2MiwxMTY1MDk4MTAyLDEzMj
+UxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkz
+LDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MT
+czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
+MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
 -->
