@@ -325,14 +325,20 @@ cout  <<  "\n";
 return  0;
 }
 ```
-**
-
+**Output :**
+```
+\He\She is a good programmer\Hacker\Teacher.
+\He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher.
+\He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher.
+\He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher.
+```
+**15. write a program using \
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1ODQyNzI0LDEwODM0MzUyMjQsNTE2OT
-YyNzU4LDU1MTU0NTcwOCwtMTMzMjk2OTUxOSwxMDkxNzUxMzgs
-MjA0NzE0MjE1NCwtOTI5MDU1ODM1LDExNjUwOTgxMDIsMTMyNT
-E5Nzc2MSwxOTMyNTE2ODczLDEzNzcwMDQ3Myw2MTgzMjUwOTMs
-MTAxNzQ4MjE0NywtMzcwMjI4MzksLTI0Nzc0MjgwMywzNjUxNz
-M0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEwOSwxOTQwMDIxMTYx
-XX0=
+eyJoaXN0b3J5IjpbLTQyODA1NjkzMywxMDgzNDM1MjI0LDUxNj
+k2Mjc1OCw1NTE1NDU3MDgsLTEzMzI5Njk1MTksMTA5MTc1MTM4
+LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMj
+UxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkz
+LDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MT
+czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
+MV19
 -->
