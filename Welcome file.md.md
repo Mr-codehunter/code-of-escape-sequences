@@ -189,11 +189,44 @@ return  0;
 ```
 **Output :**
 ```
+My Name is Deepak Kumar. I am 19 Years old.
 
+My Name is Deepak Kumar. I am 19 Years old.
 
+My Name is Deepak Kumar. I am 19 Years old.
 
+My Name is Deepak Kumar. I am 19 Years old.
 
+My Name is Deepak Kumar. I am 19 Years old.
 
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+
+My Name is Deepak Kumar. I am 19 Years old.
+```
 
 **10. Write a program using \r**
 ```
@@ -218,10 +251,10 @@ is : 105The value of d is : A
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5NjY4NDc0NywyMDQ3MTQyMTU0LC05Mj
-kwNTU4MzUsMTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5MzI1MTY4
-NzMsMTM3NzAwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3LC0zNz
-AyMjgzOSwtMjQ3NzQyODAzLDM2NTE3MzQzNiwtMTA2MDI0MjQ4
-NSwxMzIzMzkwMTA5LDE5NDAwMjExNjEsLTE3NDk1MTQ2NSw5MT
-Y5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTA5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOT
+A1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3
+MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MD
+IyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1
+LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNj
+k4NTY4MF19
 -->
