@@ -504,9 +504,12 @@ return  0;
 
 "a = 10, "b = 5
 ```
-**21. Wit
+**21. Write a program to print something using \\"**
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjY2NDg4NiwxMTY3MzkwMSwxODg4ND
+eyJoaXN0b3J5IjpbMTE1NTY0ODUwNiwxMTY3MzkwMSwxODg4ND
 Y4MTU5LDc5NzE4MDAxNywxNDU2MDA2OTgxLC0yMDU5MDI1OTI3
 LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMj
 k2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1
