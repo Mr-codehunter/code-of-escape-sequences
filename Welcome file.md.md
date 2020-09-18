@@ -35,8 +35,14 @@ int main()
 {
 int a,b,remainder;
 cout<<"Enter first number :\n";
-cin
+cin>>a;
+cout<<"Enter second number :\n;
+cin>>b;
+remainder=a/b;
+cout<<"The remainder of a and b is :\n";
+return 0;
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA1MjcwNDgsLTE3NDk1MTQ2NSw5MT
-Y5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbMzcyMjkxODMwLC0xNzQ5NTE0NjUsOTE2OT
+g1NjgwXX0=
 -->
