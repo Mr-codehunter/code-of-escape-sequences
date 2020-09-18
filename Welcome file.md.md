@@ -119,9 +119,25 @@ return  0;
         Enter   second  number  :       45
         The     multiplication  of      a       and     b       is      :       2025
    ```
+   **5. Print ASCII value**
+   ```
+   #include<iostream>
+using  namespace  std;
+int  main()
+{
+char  c;
+cout<<"\tEnter \ta \tcharcter \t:\t";
+cin>>c;
+cout<<"\tASCII \tvalue \tof\t "<<c<<"\tis\t"<<int(c)<<"\t";
+return 0;
+}
+```
+**Output :**
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MD
-IyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1
-LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNj
-k4NTY4MF19
+eyJoaXN0b3J5IjpbLTExMDg4MjA0ODQsNjE4MzI1MDkzLDEwMT
+c0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2
+LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMT
+c0OTUxNDY1LDkxNjk4NTY4MF19
 -->
