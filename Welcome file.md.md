@@ -105,13 +105,14 @@ int main()
 int a, b, mly;
 cout<<"Enter first\t number\t";
 cin>>a;
-cout<<"Enter \tsecond munber";
+cout<<"Enter \tsecond munber\t";
 cin>>b;
-mly=
+mly=a*b;
+cout<<"The\t multiplication\t of\t a \tand \tb is :
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjYxMDk5ODA5LC0yNDc3NDI4MDMsMzY1MT
-czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
-MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbLTI4Njk3NDkzMCwtMjQ3NzQyODAzLDM2NT
+E3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjEx
+NjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
 -->
