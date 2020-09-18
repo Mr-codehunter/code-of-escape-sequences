@@ -42,7 +42,18 @@ remainder=a/b;
 cout<<"The remainder of a and b is :\n"<<remainder;
 return 0;
 }
+```
+**Output :**
+```
+Enter first number :
+70
+Enter second number :
+15
+The remainder of a and b is :
+4.66667
+```
+3.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDg3ODI5NTQsMTk0MDAyMTE2MSwtMT
+eyJoaXN0b3J5IjpbLTE2NDk2MDg1NjEsMTk0MDAyMTE2MSwtMT
 c0OTUxNDY1LDkxNjk4NTY4MF19
 -->
