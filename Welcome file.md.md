@@ -36,13 +36,13 @@ int main()
 int a,b,remainder;
 cout<<"Enter first number :\n";
 cin>>a;
-cout<<"Enter second number :\n;
+cout<<"Enter second number :\n";
 cin>>b;
 remainder=a/b;
 cout<<"The remainder of a and b is :\n"<<remainder;
 return 0;
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNj
-k4NTY4MF19
+eyJoaXN0b3J5IjpbLTQ1NjY2MjYyMSwxOTQwMDIxMTYxLC0xNz
+Q5NTE0NjUsOTE2OTg1NjgwXX0=
 -->
