@@ -334,13 +334,38 @@ return  0;
 ```
 **15. write a program using \\\\**
 ```
+#include<iostream>
+using  namespace  std;
+int  main()
+{
+int  age;
+cout<<"Enter the age : ";
+cin>>age;
+if(age>18)
+{
+cout<<"He\\She can vote in India.";
+}
+else  if (age<18)
+{
+cout<<"He\\She cannot vote in India.\n";
+}
+else 
+{
+cout<<"you entered 18,"<<endl;
+}
+cout<<"This is a vote program.\n";
+return  0;
+}
+```
+**Output :**
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTkwMjU5MjcsMTA4MzQzNTIyNCw1MT
-Y5NjI3NTgsNTUxNTQ1NzA4LC0xMzMyOTY5NTE5LDEwOTE3NTEz
-OCwyMDQ3MTQyMTU0LC05MjkwNTU4MzUsMTE2NTA5ODEwMiwxMz
-I1MTk3NzYxLDE5MzI1MTY4NzMsMTM3NzAwNDczLDYxODMyNTA5
-MywxMDE3NDgyMTQ3LC0zNzAyMjgzOSwtMjQ3NzQyODAzLDM2NT
-E3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjEx
-NjFdfQ==
+eyJoaXN0b3J5IjpbMjAyNjM2MzY0MywtMjA1OTAyNTkyNywxMD
+gzNDM1MjI0LDUxNjk2Mjc1OCw1NTE1NDU3MDgsLTEzMzI5Njk1
+MTksMTA5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMT
+Y1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0
+NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yND
+c3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAx
+MDldfQ==
 -->
