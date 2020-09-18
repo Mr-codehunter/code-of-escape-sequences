@@ -15,7 +15,11 @@ cout<<"The sum of a and b is :\n";
 return 0;
 }
 ```
+
+**Output :**
 ```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyMTYyNTA0Nyw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTg0MDYzMjIyOCw5MTY5ODU2ODBdfQ==
 -->
