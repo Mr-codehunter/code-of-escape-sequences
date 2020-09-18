@@ -59,8 +59,12 @@ using namespace std;
 int main()
 {
 float a,b,sum,average;
-cout<<
+cout<<"Enter first number :\n";
+cin>>a;
+cout<<"Enter second number :\n";
+cin>>b;
+sum=a+b;
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NzUzNjI2NzksMTk0MDAyMTE2MSwtMT
-c0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbLTI0NDg0ODUyMCwxOTQwMDIxMTYxLC0xNz
+Q5NTE0NjUsOTE2OTg1NjgwXX0=
 -->
