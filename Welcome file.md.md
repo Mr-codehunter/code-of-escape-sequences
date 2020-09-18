@@ -268,31 +268,34 @@ return  0;
 **12. write a program using \r
 ```
 #include<iostream>
-
 using  namespace  std;
-
 int  main()
-
 {
-
 int  num;
-
 cout<<"\rEnter an Number : ";
-
 cin>>num;
-
-if(num<=9)cout<<"It is an interger number\r :";
+if(num<=9)
+cout<<"It is an interger number\r :";
 else
 {
 cout<<"It is not an integer \rnumber :";
 }
 return  0;
 }
+```
+**Output :**
+```
+Enter an Number : 9
+ : is an interger number
+ 
+ Enter an Number : 15
+number :t an integer
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA5Mjc5NDYsLTEzMzI5Njk1MTksMT
-A5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4
-MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNj
-E4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4
-MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMT
-k0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbNTUxNTQ1NzA4LC0xMzMyOTY5NTE5LDEwOT
+E3NTEzOCwyMDQ3MTQyMTU0LC05MjkwNTU4MzUsMTE2NTA5ODEw
+MiwxMzI1MTk3NzYxLDE5MzI1MTY4NzMsMTM3NzAwNDczLDYxOD
+MyNTA5MywxMDE3NDgyMTQ3LC0zNzAyMjgzOSwtMjQ3NzQyODAz
+LDM2NTE3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5ND
+AwMjExNjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
 -->
