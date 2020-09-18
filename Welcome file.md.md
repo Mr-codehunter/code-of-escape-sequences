@@ -190,9 +190,11 @@ cout<<"The value of\r d is :\r "<<d;
 return  0;
 } 
 ```
-**
+**Output :**
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMDA5ODc2MiwxMTY1MDk4MTAyLDEzMj
+eyJoaXN0b3J5IjpbLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMj
 UxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkz
 LDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MT
 czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
