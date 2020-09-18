@@ -97,10 +97,17 @@ return 0;
 ```
 MY name is Deepak.      I am 19 Years old.      I want to become an hacker.     I am a Btech student.
 ```
-**4. 
+**4. multiply usnig \t**
+#include<iostream>
+using namespace std;
+int main()
+{
+int a, b, mly;
+cout<<Ene
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTEwMzg0MCwtMjQ3NzQyODAzLDM2NT
+eyJoaXN0b3J5IjpbMTk1ODc3NTg2OCwtMjQ3NzQyODAzLDM2NT
 E3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjEx
 NjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
 -->
