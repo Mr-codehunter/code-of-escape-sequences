@@ -18,8 +18,13 @@ return 0;
 
 **Output :**
 ```
-
-
+Enter the value of a :
+45
+Enter the value of b:
+45
+The sum of a and b is :
+90
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzkxNjY2MzgsOTE2OTg1NjgwXX0=
+eyJoaXN0b3J5IjpbLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
 -->
