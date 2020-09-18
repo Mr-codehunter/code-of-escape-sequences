@@ -69,8 +69,20 @@ cout<<"The sum of a and b is :\n"<<sum<<"\n";
 cout<<"The average of a and b is :\n"<<average;
 return 0;
 }
+```
+**Output :**
+```
+Enter first number :
+45
+Enter second number :
+45
+The sum of a and b is :
+90
+The average of a and b is :
+45
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTU3NDM1OTUsLTEwNjAyNDI0ODUsMT
+eyJoaXN0b3J5IjpbLTE5MjQwOTg3OTIsLTEwNjAyNDI0ODUsMT
 MyMzM5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1
 NjgwXX0=
 -->
