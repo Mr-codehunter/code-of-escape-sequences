@@ -351,7 +351,7 @@ cout<<"He\\She cannot vote in India.\n";
 }
 else 
 {
-cout<<"you entered 18,"<<endl;
+cout<<"you entered 18."<<endl;
 }
 cout<<"This is a vote program.\n";
 return  0;
@@ -371,11 +371,11 @@ Enter the age : 18
 you entered 18.
 This is a vote program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NzIzNDc5LC0yMDU5MDI1OTI3LDEwOD
-M0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMjk2OTUx
-OSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1LDExNj
-UwOTgxMDIsMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNzcwMDQ3
-Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4MzksLTI0Nz
-c0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEw
-OV19
+eyJoaXN0b3J5IjpbMTQwOTg1NzgxNywtMjA1OTAyNTkyNywxMD
+gzNDM1MjI0LDUxNjk2Mjc1OCw1NTE1NDU3MDgsLTEzMzI5Njk1
+MTksMTA5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMT
+Y1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0
+NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yND
+c3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAx
+MDldfQ==
 -->
