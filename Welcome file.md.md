@@ -52,8 +52,15 @@ Enter second number :
 The remainder of a and b is :
 4.66667
 ```
-3.
+**3. Find Out the Average**
+```
+#include<iostream>
+using namespace std;
+int main()
+{
+float a,b,sum,average;
+cout<<
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDk2MDg1NjEsMTk0MDAyMTE2MSwtMT
+eyJoaXN0b3J5IjpbLTE4NzUzNjI2NzksMTk0MDAyMTE2MSwtMT
 c0OTUxNDY1LDkxNjk4NTY4MF19
 -->
