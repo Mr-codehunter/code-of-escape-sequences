@@ -103,11 +103,15 @@ using namespace std;
 int main()
 {
 int a, b, mly;
-cout<<Ene
+cout<<"Enter first\t number\t";
+cin>>a;
+cout<<"Enter \tsecond munber";
+cin>>b;
+mly=
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1ODc3NTg2OCwtMjQ3NzQyODAzLDM2NT
-E3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjEx
-NjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbMjYxMDk5ODA5LC0yNDc3NDI4MDMsMzY1MT
+czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
+MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
 -->
