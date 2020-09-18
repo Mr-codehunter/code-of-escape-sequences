@@ -2,7 +2,7 @@
 1. sum of two numbers
 ```
 #include<iostream>
-using namespce std;
+using namespace std;
 int main()
 {
 int a,b,sum;
@@ -21,5 +21,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDYzMjIyOCw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTU1NTgxMTY4OSw5MTY5ODU2ODBdfQ==
 -->
