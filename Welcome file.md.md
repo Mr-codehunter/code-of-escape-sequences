@@ -305,7 +305,7 @@ return  0;
 ```
 He\she is an great programmer in c\c++\java\javascript\python\.
 ```
-**14. Write a program using \\**
+**14. Write a program using \\\\**
 ```
 #include  <iostream>
 using  namespace  std;
@@ -332,13 +332,15 @@ return  0;
 \He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher.
 \He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher. \He\She is a good programmer\Hacker\Teacher.
 ```
-**15. write a program using \
+**15. write a program using \\\\**
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODA1NjkzMywxMDgzNDM1MjI0LDUxNj
-k2Mjc1OCw1NTE1NDU3MDgsLTEzMzI5Njk1MTksMTA5MTc1MTM4
-LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMj
-UxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkz
-LDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MT
-czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
-MV19
+eyJoaXN0b3J5IjpbLTIwNTkwMjU5MjcsMTA4MzQzNTIyNCw1MT
+Y5NjI3NTgsNTUxNTQ1NzA4LC0xMzMyOTY5NTE5LDEwOTE3NTEz
+OCwyMDQ3MTQyMTU0LC05MjkwNTU4MzUsMTE2NTA5ODEwMiwxMz
+I1MTk3NzYxLDE5MzI1MTY4NzMsMTM3NzAwNDczLDYxODMyNTA5
+MywxMDE3NDgyMTQ3LC0zNzAyMjgzOSwtMjQ3NzQyODAzLDM2NT
+E3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5NDAwMjEx
+NjFdfQ==
 -->
