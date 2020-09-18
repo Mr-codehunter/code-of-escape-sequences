@@ -103,18 +103,18 @@ using namespace std;
 int main()
 {
 int a, b, mly;
-cout<<"Enter first\t number\t";
+cout<<"\tEnter first\t number\t";
 cin>>a;
-cout<<"Enter \tsecond munber\t";
+cout<<"\tEnter \tsecond number\t";
 cin>>b;
 mly=a*b;
-cout<<"The\t multiplication\t of\t a \tand \tb \tis :";
+cout<<"\tThe\t multiplication\t of\t a \tand \tb \tis \t:"<<mly<<"\t";
 return 0;
 }
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MT
-czNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2
-MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbMzU2ODYxMTA5LC0zNzAyMjgzOSwtMjQ3Nz
+QyODAzLDM2NTE3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5
+LDE5NDAwMjExNjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
 -->
