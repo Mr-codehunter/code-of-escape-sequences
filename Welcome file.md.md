@@ -472,9 +472,14 @@ cout  <<  "\"Factorial of "  <<  n  <<  " = "  <<  factorial<<"\"";
 return  0;
 }
 ```
-**O
+**Output :**
+```
+"Enter a positive integer: "45
+"Factorial of 45 = 9649395409222631424"
+```
+** 20. Wr"**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5OTc2NzI1OSwxMTY3MzkwMSwxODg4ND
+eyJoaXN0b3J5IjpbLTI4NTQ3NjEyMSwxMTY3MzkwMSwxODg4ND
 Y4MTU5LDc5NzE4MDAxNywxNDU2MDA2OTgxLC0yMDU5MDI1OTI3
 LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMj
 k2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1
