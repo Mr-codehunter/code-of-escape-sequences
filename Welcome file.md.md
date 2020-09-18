@@ -28,7 +28,15 @@ The sum of a and b is :
 90
 ```
 **2. Find Out the Reamainder** 
+```
+#include<iostream>
+using namespace std;
+int main()
+{
+int a,b,remainder;
+cout<<"Enter first number :\n";
+cin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5OTYxNjg4OSwtMTc0OTUxNDY1LDkxNj
-k4NTY4MF19
+eyJoaXN0b3J5IjpbLTEwMzA1MjcwNDgsLTE3NDk1MTQ2NSw5MT
+Y5ODU2ODBdfQ==
 -->
