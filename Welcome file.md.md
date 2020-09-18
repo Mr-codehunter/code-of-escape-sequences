@@ -100,17 +100,17 @@ MY name is Deepak.      I am 19 Years old.      I want to become an hacker.     
 **4. multiply using \t**
 ```
 #include<iostream>
-using namespace std;
-int main()
+using  namespace  std;
+int  main()
 {
-int a, b, mly;
+int  a, b, mly;
 cout<<"\tEnter\t first\t number\t:\t";
 cin>>a;
 cout<<"\tEnter \tsecond \tnumber\t:\t";
 cin>>b;
 mly=a*b;
-cout<<"\tThe\t multiplication\t of\t a \tand \tb \tis \t:\t"<<mly<<"\t";
-return 0;
+cout<<"\tThe \tmultiplication \tof \ta \tand \tb \tis \t:\t"<<mly<<"\t";
+return  0;
 }
 ```
 **Output :**
@@ -120,8 +120,8 @@ return 0;
         The     multiplication  of      a       and     b       is      :       2025
    ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTA5NjI5MTEsMTAxNzQ4MjE0NywtMz
-cwMjI4MzksLTI0Nzc0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0
-ODUsMTMyMzM5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOT
-E2OTg1NjgwXX0=
+eyJoaXN0b3J5IjpbNjE4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MD
+IyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1
+LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNj
+k4NTY4MF19
 -->
