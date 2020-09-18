@@ -39,10 +39,10 @@ cin>>a;
 cout<<"Enter second number :\n;
 cin>>b;
 remainder=a/b;
-cout<<"The remainder of a and b is :\n";
+cout<<"The remainder of a and b is :\n"<<remainder;
 return 0;
 }
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyMjkxODMwLC0xNzQ5NTE0NjUsOTE2OT
-g1NjgwXX0=
+eyJoaXN0b3J5IjpbMTk0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNj
+k4NTY4MF19
 -->
