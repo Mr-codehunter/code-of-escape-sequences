@@ -173,7 +173,24 @@ return  0;
 ```
 PMNarendra Mod announce pane to stujoint polThPrime Mini of India is Nare Modi
 ```
-**9. write a program using \b
+**9. write a program to print your name using \b**
+```
+#include<iostream>
+using  namespace  std;
+int  main()
+{
+int  i;
+for (i=1; i<=20; ++i)
+{
+cout<<"My Namesssss\b\b\b\b\b is Deepak Kumarrrr\b\b\b. I am 19 Yearss\b old.\n\n";
+}
+return  0;
+}
+```
+**Output :**
+```
+
+
 
 
 
@@ -201,9 +218,10 @@ is : 105The value of d is : A
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzE0MjE1NCwtOTI5MDU1ODM1LDExNj
-UwOTgxMDIsMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNzcwMDQ3
-Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4MzksLTI0Nz
-c0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEw
-OSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1NjgwXX0=
+eyJoaXN0b3J5IjpbMTI5NjY4NDc0NywyMDQ3MTQyMTU0LC05Mj
+kwNTU4MzUsMTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5MzI1MTY4
+NzMsMTM3NzAwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3LC0zNz
+AyMjgzOSwtMjQ3NzQyODAzLDM2NTE3MzQzNiwtMTA2MDI0MjQ4
+NSwxMzIzMzkwMTA5LDE5NDAwMjExNjEsLTE3NDk1MTQ2NSw5MT
+Y5ODU2ODBdfQ==
 -->
