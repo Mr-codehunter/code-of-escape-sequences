@@ -394,15 +394,9 @@ return 0;
 **17. Write a program to using \\'**
 ```
 #include  <iostream>
-
 using  namespace  std;
-
-  
-
 int  main()
-
 {
-
 int  year;
 cout  <<  "\'Enter a year: "<<"\'";
 cin  >>  year;
@@ -422,12 +416,20 @@ else
 cout  <<  year  <<  " \'is not a leap year.\'";
 return  0;
 }
+```
+**Output :**
+```
+'Enter a year: '1947
+1947 'is not a leap year.'
+
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NzA3NDA0NCw3OTcxODAwMTcsMTQ1Nj
-AwNjk4MSwtMjA1OTAyNTkyNywxMDgzNDM1MjI0LDUxNjk2Mjc1
-OCw1NTE1NDU3MDgsLTEzMzI5Njk1MTksMTA5MTc1MTM4LDIwND
-cxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3
-NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMT
-c0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2
-XX0=
+eyJoaXN0b3J5IjpbNDMxODc4MDA4LDc5NzE4MDAxNywxNDU2MD
+A2OTgxLC0yMDU5MDI1OTI3LDEwODM0MzUyMjQsNTE2OTYyNzU4
+LDU1MTU0NTcwOCwtMTMzMjk2OTUxOSwxMDkxNzUxMzgsMjA0Nz
+E0MjE1NCwtOTI5MDU1ODM1LDExNjUwOTgxMDIsMTMyNTE5Nzc2
+MSwxOTMyNTE2ODczLDEzNzcwMDQ3Myw2MTgzMjUwOTMsMTAxNz
+Q4MjE0NywtMzcwMjI4MzksLTI0Nzc0MjgwMywzNjUxNzM0MzZd
+fQ==
 -->
