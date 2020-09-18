@@ -27,7 +27,7 @@ Enter the value of b:
 The sum of a and b is :
 90
 ```
-**2. Find Out the Remainder** 
+**2. Find Out the Remainder using \t** 
 ```
 #include<iostream>
 using namespace std;
@@ -52,7 +52,7 @@ Enter second number :
 The remainder of a and b is :
 4.66667
 ```
-**3. Find Out the Average**
+**3. Find Out the Average using \n**
 ```
 #include<iostream>
 using namespace std;
@@ -119,7 +119,7 @@ return  0;
         Enter   second  number  :       45
         The     multiplication  of      a       and     b       is      :       2025
    ```
-   **6. Print ASCII value**
+   **6. Print ASCII value using \t**
    ```
    #include<iostream>
 using  namespace  std;
@@ -137,9 +137,10 @@ return 0;
         Enter   a       charcter        :       x
         ASCII   value   of       x      is      120
 ```
+**7. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjIzOTc2MTAsMTM3NzAwNDczLDYxOD
-MyNTA5MywxMDE3NDgyMTQ3LC0zNzAyMjgzOSwtMjQ3NzQyODAz
-LDM2NTE3MzQzNiwtMTA2MDI0MjQ4NSwxMzIzMzkwMTA5LDE5ND
-AwMjExNjEsLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4Mz
+I1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMs
+MzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MD
+AyMTE2MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
 -->
