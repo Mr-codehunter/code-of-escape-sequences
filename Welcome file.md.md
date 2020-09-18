@@ -173,7 +173,8 @@ return  0;
 ```
 PMNarendra Mod announce pane to stujoint polThPrime Mini of India is Nare Modi
 ```
-**9. w
+**9. write a program using \b
+
 
 
 
@@ -200,7 +201,7 @@ is : 105The value of d is : A
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNjgwOTM2MSwtOTI5MDU1ODM1LDExNj
+eyJoaXN0b3J5IjpbMjA0NzE0MjE1NCwtOTI5MDU1ODM1LDExNj
 UwOTgxMDIsMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNzcwMDQ3
 Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4MzksLTI0Nz
 c0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEw
