@@ -8,7 +8,7 @@ int main()
 int a,b;
 cout<<"The value of a"\n;
 cin>>a;
-cout<<"
+cout<<"The 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NTA2OTMwXX0=
+eyJoaXN0b3J5IjpbMzE5MzA4MTVdfQ==
 -->
