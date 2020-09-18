@@ -108,13 +108,13 @@ cin>>a;
 cout<<"\tEnter \tsecond \tnumber\t";
 cin>>b;
 mly=a*b;
-cout<<"\tThe\t multiplication\t of\t a \tand \tb \tis \t:"<<mly<<"\t";
+cout<<"\tThe\t multiplication\t of\t a \tand \tb \tis \t:\t"<<mly<<"\t";
 return 0;
 }
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MjgyMDg5OSwtMzcwMjI4MzksLTI0Nz
-c0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEw
-OSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1NjgwXX0=
+eyJoaXN0b3J5IjpbLTE5ODU1MzMwODUsLTM3MDIyODM5LC0yND
+c3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAx
+MDksMTk0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
 -->
