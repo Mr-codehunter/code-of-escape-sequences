@@ -391,7 +391,7 @@ return 0;
 'Hello Brother  !
 'Hello Brother  !
 ```
-**17. Write a program to using \\'**
+**17. Write a program to find leap year \\'**
 ```
 #include  <iostream>
 using  namespace  std;
@@ -428,11 +428,11 @@ return  0;
 **18. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODQ2ODE1OSw3OTcxODAwMTcsMTQ1Nj
-AwNjk4MSwtMjA1OTAyNTkyNywxMDgzNDM1MjI0LDUxNjk2Mjc1
-OCw1NTE1NDU3MDgsLTEzMzI5Njk1MTksMTA5MTc1MTM4LDIwND
-cxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3
-NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMT
-c0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2
-XX0=
+eyJoaXN0b3J5IjpbMTE2NzM5MDEsMTg4ODQ2ODE1OSw3OTcxOD
+AwMTcsMTQ1NjAwNjk4MSwtMjA1OTAyNTkyNywxMDgzNDM1MjI0
+LDUxNjk2Mjc1OCw1NTE1NDU3MDgsLTEzMzI5Njk1MTksMTA5MT
+c1MTM4LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAy
+LDEzMjUxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4Mz
+I1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDNd
+fQ==
 -->
