@@ -363,13 +363,19 @@ Enter the age : 12
 He\She cannot vote in India.
 This is a vote program.
 
+Enter the age : 45
+He\She can vote in India.
+This is a vote program.
 
+Enter the age : 18
+you entered 18.
+This is a vote program.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzYwMzQzNywtMjA1OTAyNTkyNywxMD
-gzNDM1MjI0LDUxNjk2Mjc1OCw1NTE1NDU3MDgsLTEzMzI5Njk1
-MTksMTA5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMT
-Y1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0
-NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yND
-c3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAx
-MDldfQ==
+eyJoaXN0b3J5IjpbOTE0NzIzNDc5LC0yMDU5MDI1OTI3LDEwOD
+M0MzUyMjQsNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMjk2OTUx
+OSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1LDExNj
+UwOTgxMDIsMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNzcwMDQ3
+Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4MzksLTI0Nz
+c0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEw
+OV19
 -->
