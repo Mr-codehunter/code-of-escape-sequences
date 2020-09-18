@@ -291,13 +291,27 @@ Enter an Number : 9
  Enter an Number : 15
 number :t an integer
 ```
-**13. **
+**13. Write a program using \\**
+```
+#include<iostream>
+using  namespace  std;
+int  main()
+{
+cout<<"He\\she is an great programmer in c\\c++\\java\\javascript\\python\\.";
+return  0;
+}
+```
+**Output :**
+```
+He\she is an great programmer in c\c++\java\javascript\python\.
+```
+**14. Write a program using \\**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE2OTYyNzU4LDU1MTU0NTcwOCwtMTMzMj
-k2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1NCwtOTI5MDU1ODM1
-LDExNjUwOTgxMDIsMTMyNTE5Nzc2MSwxOTMyNTE2ODczLDEzNz
-cwMDQ3Myw2MTgzMjUwOTMsMTAxNzQ4MjE0NywtMzcwMjI4Mzks
-LTI0Nzc0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMz
-M5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1Njgw
-XX0=
+eyJoaXN0b3J5IjpbLTIwMjEwOTgxOTgsNTE2OTYyNzU4LDU1MT
+U0NTcwOCwtMTMzMjk2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1
+NCwtOTI5MDU1ODM1LDExNjUwOTgxMDIsMTMyNTE5Nzc2MSwxOT
+MyNTE2ODczLDEzNzcwMDQ3Myw2MTgzMjUwOTMsMTAxNzQ4MjE0
+NywtMzcwMjI4MzksLTI0Nzc0MjgwMywzNjUxNzM0MzYsLTEwNj
+AyNDI0ODUsMTMyMzM5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0
+NjVdfQ==
 -->
