@@ -66,8 +66,10 @@ cin>>b;
 sum=a+b;
 average=sum/2;
 cout<<The sum of a and b is :\n"<<sum;
-cout
+cout<<The average of a and b is :\n<<average;
+return 0;
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzg1NTgxOCwxOTQwMDIxMTYxLC0xNz
+eyJoaXN0b3J5IjpbMTMyMzM5MDEwOSwxOTQwMDIxMTYxLC0xNz
 Q5NTE0NjUsOTE2OTg1NjgwXX0=
 -->
