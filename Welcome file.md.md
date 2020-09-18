@@ -30,7 +30,7 @@ Enter the value of b:
 The sum of a and b is :
 90
 ```
-**2. Find Out the Remainder using \t** 
+**2. Find out the remainder using \t** 
 ```
 #include<iostream>
 using namespace std;
@@ -55,7 +55,7 @@ Enter second number :
 The remainder of a and b is :
 4.66667
 ```
-**3. Find Out the Average using \n**
+**3. Find out the average using \n**
 ```
 #include<iostream>
 using namespace std;
@@ -84,7 +84,7 @@ The sum of a and b is :
 The average of a and b is :
 61.5
 ```
-**4. Print Something using \t**
+**4. Print something using \t**
 ```
 #include<iostream>
 using  namespace  std;
@@ -100,7 +100,7 @@ return 0;
 ```
 MY name is Deepak.      I am 19 Years old.      I want to become an hacker.     I am a Btech student.
 ```
-**5. multiply using \t**
+**5. Write a program to multiply using \t**
 ```
 #include<iostream>
 using  namespace  std;
@@ -161,7 +161,7 @@ Entethvalue o tw numbe145
 2
 Th valu i  72.5
 ```
-**8. Print Something using \b**
+**8. Print something using \b**
 ```
 #include<iostream>
 using  namespace  std;
@@ -176,7 +176,7 @@ return  0;
 ```
 PMNarendra Mod announce pane to stujoint polThPrime Mini of India is Nare Modi
 ```
-**9. write a program to print your name using \b**
+**9. Write a program to print your name using \b**
 ```
 #include<iostream>
 using  namespace  std;
@@ -520,11 +520,11 @@ return  0;
 ## *Thanks a lot for wisiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5NzMzNTEyMSwxMTU1NjQ4NTA2LDExNj
-czOTAxLDE4ODg0NjgxNTksNzk3MTgwMDE3LDE0NTYwMDY5ODEs
-LTIwNTkwMjU5MjcsMTA4MzQzNTIyNCw1MTY5NjI3NTgsNTUxNT
-Q1NzA4LC0xMzMyOTY5NTE5LDEwOTE3NTEzOCwyMDQ3MTQyMTU0
-LC05MjkwNTU4MzUsMTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5Mz
-I1MTY4NzMsMTM3NzAwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3
-XX0=
+eyJoaXN0b3J5IjpbLTE5MjkyNzQxMTIsMTE1NTY0ODUwNiwxMT
+Y3MzkwMSwxODg4NDY4MTU5LDc5NzE4MDAxNywxNDU2MDA2OTgx
+LC0yMDU5MDI1OTI3LDEwODM0MzUyMjQsNTE2OTYyNzU4LDU1MT
+U0NTcwOCwtMTMzMjk2OTUxOSwxMDkxNzUxMzgsMjA0NzE0MjE1
+NCwtOTI5MDU1ODM1LDExNjUwOTgxMDIsMTMyNTE5Nzc2MSwxOT
+MyNTE2ODczLDEzNzcwMDQ3Myw2MTgzMjUwOTMsMTAxNzQ4MjE0
+N119
 -->
