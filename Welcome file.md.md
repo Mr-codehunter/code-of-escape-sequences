@@ -25,6 +25,8 @@ Enter the value of b:
 The sum of a and b is :
 90
 ```
+2. find out the reamainder
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDk1MTQ2NSw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTc5NDYwODY4MSwtMTc0OTUxNDY1LDkxNj
+k4NTY4MF19
 -->
