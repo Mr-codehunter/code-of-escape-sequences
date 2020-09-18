@@ -1,4 +1,9 @@
-**Codes of Escape Sequence**
+**
+
+## *Codes of Escape Sequences*
+```
+
+```
 
 
 **1. sum of two numbers using \n**
@@ -512,13 +517,16 @@ return  0;
 "Follow me on  my "GITHUB" Account @ "Mr-codehunter" and if u contact me please send an "E-mail on : "Writtten Soon" and my "contact no. is "8847547031"
 "Follow me on  my "GITHUB" Account @ "Mr-codehunter" and if u contact me please send an "E-mail on : "Writtten Soon" and my "contact no. is "8847547031"
 ```
-**Thanks a lot for wisiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031** 
+**
+
+## *Thanks a lot for wisiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjI5NTQwMTk0LDExNTU2NDg1MDYsMTE2Nz
-M5MDEsMTg4ODQ2ODE1OSw3OTcxODAwMTcsMTQ1NjAwNjk4MSwt
-MjA1OTAyNTkyNywxMDgzNDM1MjI0LDUxNjk2Mjc1OCw1NTE1ND
-U3MDgsLTEzMzI5Njk1MTksMTA5MTc1MTM4LDIwNDcxNDIxNTQs
-LTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMj
-UxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDdd
-fQ==
+eyJoaXN0b3J5IjpbLTM1OTgwNzk4OSwxMTU1NjQ4NTA2LDExNj
+czOTAxLDE4ODg0NjgxNTksNzk3MTgwMDE3LDE0NTYwMDY5ODEs
+LTIwNTkwMjU5MjcsMTA4MzQzNTIyNCw1MTY5NjI3NTgsNTUxNT
+Q1NzA4LC0xMzMyOTY5NTE5LDEwOTE3NTEzOCwyMDQ3MTQyMTU0
+LC05MjkwNTU4MzUsMTE2NTA5ODEwMiwxMzI1MTk3NzYxLDE5Mz
+I1MTY4NzMsMTM3NzAwNDczLDYxODMyNTA5MywxMDE3NDgyMTQ3
+XX0=
 -->
