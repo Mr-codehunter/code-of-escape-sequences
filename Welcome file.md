@@ -3,7 +3,12 @@
 ```
 #include<iostream>
 using namespace std;
-int min
+int main()
+{
+int a,b;
+cout<<"The value of a"\n;
+cin>>a;
+cout<<"
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU2ODQzNDksNTI5NzAxODc5XX0=
+eyJoaXN0b3J5IjpbLTg2NTA2OTMwLDUyOTcwMTg3OV19
 -->
