@@ -249,12 +249,26 @@ return  0;
 ```
 is : 105The value of d is : A
 ```
+**11. Write  a program using \r**
+```
+#include<iostream>
+using  namespace  std;
+int  main()
+{
+int  num;
+cout<<"\rEnter an Number. It is a even number\r :";
+cin>>num;
+return  0;
+}
+```
+**Output :**
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOT
-A1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3
-MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MD
-IyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1
-LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNj
-k4NTY4MF19
+eyJoaXN0b3J5IjpbLTEwNzE1NTE1MTUsMTA5MTc1MTM4LDIwND
+cxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3
+NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMT
+c0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2
+LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMT
+c0OTUxNDY1LDkxNjk4NTY4MF19
 -->
