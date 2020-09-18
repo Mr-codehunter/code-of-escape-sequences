@@ -266,12 +266,33 @@ return  0;
 :40r an Number. It is a even number
 ```
 **12. write a program using \r
+```
+#include<iostream>
 
+using  namespace  std;
+
+int  main()
+
+{
+
+int  num;
+
+cout<<"\rEnter an Number : ";
+
+cin>>num;
+
+if(num<=9)cout<<"It is an interger number\r :";
+else
+{
+cout<<"It is not an integer \rnumber :";
+}
+return  0;
+}
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI5Njk1MTksMTA5MTc1MTM4LDIwND
-cxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4MTAyLDEzMjUxOTc3
-NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNjE4MzI1MDkzLDEwMT
-c0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4MDMsMzY1MTczNDM2
-LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMTk0MDAyMTE2MSwtMT
-c0OTUxNDY1LDkxNjk4NTY4MF19
+eyJoaXN0b3J5IjpbLTE1MjA5Mjc5NDYsLTEzMzI5Njk1MTksMT
+A5MTc1MTM4LDIwNDcxNDIxNTQsLTkyOTA1NTgzNSwxMTY1MDk4
+MTAyLDEzMjUxOTc3NjEsMTkzMjUxNjg3MywxMzc3MDA0NzMsNj
+E4MzI1MDkzLDEwMTc0ODIxNDcsLTM3MDIyODM5LC0yNDc3NDI4
+MDMsMzY1MTczNDM2LC0xMDYwMjQyNDg1LDEzMjMzOTAxMDksMT
+k0MDAyMTE2MSwtMTc0OTUxNDY1LDkxNjk4NTY4MF19
 -->
