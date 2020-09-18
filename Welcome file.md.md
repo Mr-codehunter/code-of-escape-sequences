@@ -11,7 +11,7 @@ cin>>a;
 cout<<"Enter the value of b:\n";
 cin>>b;
 sum=a+b;
-cout<<"The sum of a and b is :\n";
+cout<<"The sum of a and b is :\n"<<sum;
 return 0;
 }
 ```
@@ -21,5 +21,5 @@ return 0;
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTgxMTY4OSw5MTY5ODU2ODBdfQ==
+eyJoaXN0b3J5IjpbLTEyMzkxNjY2MzgsOTE2OTg1NjgwXX0=
 -->
