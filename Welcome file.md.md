@@ -98,6 +98,7 @@ return 0;
 MY name is Deepak.      I am 19 Years old.      I want to become an hacker.     I am a Btech student.
 ```
 **4. multiply using \t**
+```
 #include<iostream>
 using namespace std;
 int main()
@@ -111,10 +112,16 @@ mly=a*b;
 cout<<"\tThe\t multiplication\t of\t a \tand \tb \tis \t:\t"<<mly<<"\t";
 return 0;
 }
-
-
+```
+**Output :**
+```
+        Enter    first   number :       45
+        Enter   second  number  :       45
+        The     multiplication  of      a       and     b       is      :       2025
+   ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzQ4MjE0NywtMzcwMjI4MzksLTI0Nz
-c0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0ODUsMTMyMzM5MDEw
-OSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOTE2OTg1NjgwXX0=
+eyJoaXN0b3J5IjpbLTIxMTA5NjI5MTEsMTAxNzQ4MjE0NywtMz
+cwMjI4MzksLTI0Nzc0MjgwMywzNjUxNzM0MzYsLTEwNjAyNDI0
+ODUsMTMyMzM5MDEwOSwxOTQwMDIxMTYxLC0xNzQ5NTE0NjUsOT
+E2OTg1NjgwXX0=
 -->
