@@ -1,5 +1,7 @@
 **Codes of Escape Sequence**
-1. sum of two numbers
+
+
+**1. sum of two numbers**
 ```
 #include<iostream>
 using namespace std;
@@ -25,8 +27,8 @@ Enter the value of b:
 The sum of a and b is :
 90
 ```
-2. find out the reamainder
+**2. Find Out the Reamainder** 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDYwODY4MSwtMTc0OTUxNDY1LDkxNj
+eyJoaXN0b3J5IjpbMTg5OTYxNjg4OSwtMTc0OTUxNDY1LDkxNj
 k4NTY4MF19
 -->
