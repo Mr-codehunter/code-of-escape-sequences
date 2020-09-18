@@ -1,9 +1,7 @@
 **
 
 ## *Codes of Escape Sequences*
-```
 
-```
 
 
 **1. sum of two numbers using \n**
@@ -522,7 +520,7 @@ return  0;
 ## *Thanks a lot for wisiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTgwNzk4OSwxMTU1NjQ4NTA2LDExNj
+eyJoaXN0b3J5IjpbLTg5NzMzNTEyMSwxMTU1NjQ4NTA2LDExNj
 czOTAxLDE4ODg0NjgxNTksNzk3MTgwMDE3LDE0NTYwMDY5ODEs
 LTIwNTkwMjU5MjcsMTA4MzQzNTIyNCw1MTY5NjI3NTgsNTUxNT
 Q1NzA4LC0xMzMyOTY5NTE5LDEwOTE3NTEzOCwyMDQ3MTQyMTU0
