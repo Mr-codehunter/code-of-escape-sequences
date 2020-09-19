@@ -517,8 +517,9 @@ return  0;
 ```
 **
 
-## *Thanks a lot for wisiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031*
+## *Thanks a lot for Visiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5Mjk4NTM0LDE5OTcwNDQzODRdfQ==
+eyJoaXN0b3J5IjpbMTc0NTMwMzM5OSwyNDkyOTg1MzQsMTk5Nz
+A0NDM4NF19
 -->
