@@ -515,11 +515,11 @@ return  0;
 "Follow me on  my "GITHUB" Account @ "Mr-codehunter" and if u contact me please send an "E-mail on : "Writtten Soon" and my "contact no. is "8847547031"
 "Follow me on  my "GITHUB" Account @ "Mr-codehunter" and if u contact me please send an "E-mail on : "Writtten Soon" and my "contact no. is "8847547031"
 ```
-**
+
 
 ## *Thanks a lot for Visiting and watching..... my codes and if any quires and any mistakes in my program please u can ask me,...on contact :8847547031*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0NTMwMzM5OSwyNDkyOTg1MzQsMTk5Nz
+eyJoaXN0b3J5IjpbMTQxOTcwNTI1NSwyNDkyOTg1MzQsMTk5Nz
 A0NDM4NF19
 -->
