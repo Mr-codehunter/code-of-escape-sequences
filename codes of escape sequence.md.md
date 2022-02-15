@@ -16,7 +16,7 @@ cin>>a;
 cout<<"Enter the value of b:\n";
 cin>>b;
 sum=a+b;
-cout<<"The addition of a and b is :\n"<<sum;
+cout<<"The sum of a and b is :\n"<<sum;
 return 0;
 }
 ```
